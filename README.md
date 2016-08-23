@@ -29,4 +29,4 @@ for ipsec tunnel management
 ## Default values
 
     _strongswan_processes   charon $(charon)$$(1:1)$$(1:1)$,starter $(starter)$$(1:1)$$(1:1)$
-    _strongswan_listen      Listen 4500 $(4500)$$(1:1)$$(1:1)$,Listen 500 $(500)$$(1:1)$$(1:1)
+    _strongswan_listen      Listen 4500 $(4500)$$(1:1)$$(1:1)$,Listen 500 $(500)$$(1:1)$$(1:1)$
