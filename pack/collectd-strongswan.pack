@@ -1,0 +1,6 @@
+{
+    "name": "collectd-strongswan",
+    "description": "Checks to manage our strongswan collectd checks",
+    "path": "collectd-strongswan",
+    "macros": {}
+}
